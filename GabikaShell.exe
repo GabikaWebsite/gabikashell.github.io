@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>GabikaShell Letöltés</title>
+</head>
+<body>
+    <h1>GabikaShell Letöltés</h1>
+
+    <p>Kattints a linkre a letöltéshez:</p>
+
+    <a href="gabikashell.exe" download>
+        GabikaShell.exe letöltése
+    </a>
+
+</body>
+</html>
